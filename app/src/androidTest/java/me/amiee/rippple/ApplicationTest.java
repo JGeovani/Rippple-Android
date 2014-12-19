@@ -1,4 +1,4 @@
-package amiee.me.rippple;
+package me.amiee.rippple;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
